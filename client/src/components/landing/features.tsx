@@ -22,7 +22,7 @@ export function Features() {
       description: t.chatbot.desc,
       icon: MessageSquareText,
       image: "/images/feature-chatbot.png",
-      points: ["NLP", "Voice & Image Support", "Regional Dialects"],
+      points: ["Instant Answers", "Voice + Photo Queries", "Local Language Support"],
       colSpan: "lg:col-span-2",
       link: "/features/chatbot"
     },
@@ -32,7 +32,7 @@ export function Features() {
       description: t.records.desc,
       icon: FileText,
       image: "/images/feature-records.png",
-      points: ["Muzzle ID Technology", "Health History Timeline", "Milk Yield Tracking"],
+      points: ["Muzzle ID", "Complete Health Timeline", "Milk Yield Insights"],
       colSpan: "lg:col-span-1",
       link: "/features/records"
     },
@@ -42,7 +42,7 @@ export function Features() {
       description: t.findVet.desc,
       icon: MapPin,
       image: "/images/feature-vet.png",
-      points: ["GPS Matching", "Specialist Search", "Verified Reviews"],
+      points: ["GPS-Based Matching", "Specialist Discovery", "Verified Profiles"],
       colSpan: "lg:col-span-1",
       link: "/features/find-vet"
     },
@@ -52,7 +52,7 @@ export function Features() {
       description: t.emergency.desc,
       icon: Ambulance,
       image: "/images/feature-emergency.png",
-      points: ["24/7 Helpline", "Mobile Vet Units", "Critical Alerts"],
+      points: ["24/7 Emergency Helpline", "Mobile Vet Support", "Critical Care Alerts"],
       colSpan: "lg:col-span-2",
       link: "/features/emergency"
     },
@@ -62,7 +62,7 @@ export function Features() {
       description: t.prediction.desc,
       icon: BrainCircuit,
       image: "/images/feature-prediction.png",
-      points: ["Symptom Analysis", "Risk Forecasting", "Preventive Alerts"],
+      points: ["Symptom Analysis", "Risk Forecasting", "Early Prevention Alerts"],
       colSpan: "lg:col-span-3",
       link: "/features/prediction"
     },

@@ -13,18 +13,18 @@ export const translations = {
       getStarted: "शुरू करें"
     },
     hero: {
-      badge: "अब 12 क्षेत्रीय भाषाओं में उपलब्ध",
-      title1: "हर पशु की",
-      title2: "बेहतर देखभाल",
-      subtitle: "पशु स्वास्थ्य संबंधी जानकारी, त्वरित पशु चिकित्सक पहुंच और 24/7 व्हाट्सएप सहायता के लिए ऑल-इन-वन एआई प्लेटफॉर्म।",
-      cta1: "मुफ्त में शुरू करें",
+      badge: "अब 12+ क्षेत्रीय भाषाओं में उपलब्ध",
+      title1: "हर पशु के लिए",
+      title2: "स्मार्ट देखभाल",
+      subtitle: "पशु स्वास्थ्य जानकारी, तुरंत पशु चिकित्सक सहायता और 24/7 व्हाट्सएप सपोर्ट के लिए एक भरोसेमंद एआई प्लेटफॉर्म।",
+      cta1: "अभी मुफ्त शुरू करें",
       cta2: "व्हाट्सएप पर आजमाएं",
-      features: ["शुरू करना मुफ्त", "वॉयस सपोर्ट सक्षम", "क्षेत्रीय भाषाएं"]
+      features: ["शुरू करना मुफ्त", "आवाज और फोटो सहायता", "स्थानीय भाषाओं का समर्थन"]
     },
     features: {
       badge: "मुख्य विशेषताएं",
-      title: "व्यापक देखभाल सुइट",
-      subtitle: "एआई-संचालित निदान से लेकर जमीनी पशु चिकित्सा सहायता तक, आपको अपने पशुओं के स्वास्थ्य का प्रबंधन करने के लिए आवश्यक सब कुछ।",
+      title: "स्मार्ट पशुधन देखभाल सुइट",
+      subtitle: "एआई आधारित सलाह से लेकर जमीनी पशु चिकित्सा सहायता तक, आपके पशुधन की बेहतर देखभाल के लिए एक ही जगह पर सब कुछ।",
       chatbot: {
         title: "गौशाला एआई चैटबॉट",
         desc: "वेब और व्हाट्सएप के माध्यम से त्वरित उत्तर। क्षेत्रीय भाषाओं में वॉयस पूछताछ का समर्थन करता है।"
@@ -47,9 +47,9 @@ export const translations = {
       }
     },
     cta: {
-      title: "क्या आप अपने पशुओं की देखभाल बदलने के लिए तैयार हैं?",
-      subtitle: "स्वस्थ पशु और बेहतर उत्पादकता सुनिश्चित करने के लिए गौशाला का उपयोग करने वाले हजारों किसानों और पशु चिकित्सकों से जुड़ें।",
-      cta1: "मुफ्त में शुरू करें",
+      title: "क्या आप अपने पशुधन की देखभाल को अगले स्तर पर ले जाना चाहते हैं?",
+      subtitle: "गौशाला का उपयोग करने वाले हजारों किसानों और पशु चिकित्सकों के साथ जुड़ें और स्वस्थ पशु व बेहतर उत्पादकता पाएँ।",
+      cta1: "मुफ्त में शुरुआत करें",
       cta2: "पशु चिकित्सक के रूप में पंजीकरण करें"
     },
     footer: {
@@ -70,18 +70,18 @@ export const translations = {
       getStarted: "Get Started"
     },
     hero: {
-      badge: "Now Live in 12 Regional Languages",
+      badge: "Now Available in 12+ Regional Languages",
       title1: "Smarter Care for",
       title2: "Every Animal",
-      subtitle: "The all-in-one AI platform for cattle health insights, instant vet access, and 24/7 WhatsApp support.",
-      cta1: "Start For Free",
+      subtitle: "A trusted AI platform for cattle health insights, instant vet access, and 24/7 WhatsApp assistance.",
+      cta1: "Start Free Today",
       cta2: "Try on WhatsApp",
-      features: ["Free to start", "Voice support enabled", "Regional languages"]
+      features: ["Free to start", "Voice and photo support", "Local language friendly"]
     },
     features: {
       badge: "Core Features",
-      title: "Comprehensive Care Suite",
-      subtitle: "Everything you need to manage your livestock's health, from AI-powered diagnostics to on-ground veterinary support.",
+      title: "Smart Livestock Care Suite",
+      subtitle: "Everything you need for healthier herds, from AI-led guidance to on-ground veterinary support.",
       chatbot: {
         title: "Gaushala AI Chatbot",
         desc: "Instant answers via Web & WhatsApp. Supports voice queries in regional languages."
@@ -104,9 +104,9 @@ export const translations = {
       }
     },
     cta: {
-      title: "Ready to Transform Your Cattle Care?",
-      subtitle: "Join thousands of farmers and veterinarians using Gaushala to ensure healthier herds and better productivity.",
-      cta1: "Get Started Free",
+      title: "Ready to Upgrade Your Cattle Care?",
+      subtitle: "Join thousands of farmers and veterinarians using Gaushala to build healthier herds and better productivity.",
+      cta1: "Get Started for Free",
       cta2: "Register as a Vet"
     },
     footer: {
